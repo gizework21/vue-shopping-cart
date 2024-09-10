@@ -1,6 +1,4 @@
-# Learn Vue 3 with Bingyang
-
-Welcome to "Learn Vue 3 with Bingyang"! This repository is designed for my free YouTube course "Learn Vue 3 with Bingyang". This repository provides hands-on coding examples covering a wide range of Vue.js concepts. Each Git branch within this repository focuses on a specific Vue.js feature or concept, offering a unique, isolated environment for learners to explore and understand Vue's capabilities in depth. Check out my YouTube channel: https://youtube.com/@BingyangWei.
+# Learn Vue 3
 
 ## Vue Concepts Covered
 
